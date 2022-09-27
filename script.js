@@ -41,4 +41,4 @@ if(number === number){
 
 let arrr = [[{a: {price: 20}}],[{a: {price: 35}}],[{a: {price: 44}}]] 
 
-let total = total
+let total = 0
